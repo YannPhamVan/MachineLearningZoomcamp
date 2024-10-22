@@ -9,6 +9,7 @@ scikit-learn = "==1.5.2"
 flask = "*"
 gunicorn = "*"
 waitress = "*"
+requests = "*"
 
 [dev-packages]
 
