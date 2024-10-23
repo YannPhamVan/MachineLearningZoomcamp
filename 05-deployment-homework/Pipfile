@@ -4,18 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "*"
 scikit-learn = "==1.5.2"
 flask = "*"
-gunicorn = "*"
 waitress = "*"
-<<<<<<< HEAD
-jinja2 = "*"
-=======
-requests = "*"
->>>>>>> f286dc6dc1fe63a41880d8925bb0fa7201cc8510
 
 [dev-packages]
 
 [requires]
 python_version = "3.11"
+python_full_version = "3.11.9"
