@@ -1,6 +1,6 @@
 # Machine Learning Zoomcamp - My Learning Journey
 
-Welcome to my personal repository dedicated to the [Machine Learning Zoomcamp](https://datatalks.club/courses.html) by DataTalks.Club, a comprehensive program where I've honed my skills in the latest machine learning technologies and deployment practices.
+Welcome to my personal repository dedicated to the [Machine Learning Zoomcamp](https://datatalks.club/blog/guide-to-free-online-courses-at-datatalks-club.html) by DataTalks.Club, a comprehensive program where I've honed my skills in the latest machine learning technologies and deployment practices.
 
 ## Why This Repository?
 
